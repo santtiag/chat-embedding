@@ -1,0 +1,10 @@
+p:que es python?r:Python es un lenguaje de programacion interpretado, de alto nivel y facil de aprender, conocido por su sintaxis clara y legible.
+p:para que sirve python?r:Python sirve para desarrollo web, ciencia de datos, inteligencia artificial, automatizacion de tareas, scripting y mucho mas.
+p:que es una lista en python?r:Una lista en Python es una estructura de datos mutable y ordenada que puede contener elementos de diferentes tipos.
+p:que es un diccionario en python?r:Un diccionario en Python es una estructura de datos que almacena pares clave-valor, permitiendo acceso rapido a los valores mediante su clave.
+p:que es pip?r:pip es el gestor de paquetes de Python que permite instalar, actualizar y eliminar bibliotecas de terceros.
+p:que es fastapi?r:FastAPI es un framework moderno y rapido para construir APIs con Python, basado en estandares como OpenAPI y JSON Schema.
+p:como se define una funcion en python?r:En Python se define una funcion con la palabra clave def, seguida del nombre y parentesis con los parametros.
+p:que es pypi?r:PyPI (Python Package Index) es el repositorio oficial de software para el lenguaje de programacion Python.
+
+p:que es un paradigma de programacion?r:Un paradigma de programacion es un enfoque o estilo de desarrollo de software.

@@ -1,0 +1,10 @@
+p:que es la inteligencia artificial?r:La inteligencia artificial es un campo de la informatica dedicado a crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.
+p:que es el machine learning?r:El Machine Learning es una rama de la IA que permite a las computadoras aprender patrones a partir de datos sin ser programadas explicitamente.
+p:que es una red neuronal?r:Una red neuronal es un modelo computacional inspirado en el cerebro humano, compuesto por capas de neuronas artificiales interconectadas.
+p:que es el overfitting?r:El overfitting ocurre cuando un modelo de aprendizaje se ajusta demasiado a los datos de entrenamiento y pierde capacidad de generalizar a datos nuevos.
+p:que es una gpu?r:Una GPU (Graphics Processing Unit) es un procesador especializado en operaciones paralelas, muy utilizado para entrenar modelos de aprendizaje profundo.
+p:que es el deep learning?r:El Deep Learning es un subconjunto del Machine Learning que utiliza redes neuronales profundas (con muchas capas) para modelar abstracciones complejas.
+p:que es un dataset?r:Un dataset o conjunto de datos es una coleccion organizada de datos utilizada para entrenar, validar y probar modelos de IA.
+p:que es un algoritmo de clasificacion?r:Un algoritmo de clasificacion es un metodo de Machine Learning que asigna etiquetas o categorias a nuevas observaciones basandose en datos de entrenamiento.
+
+p:que es un perceptron??r:Es la red neuronal más sencilla

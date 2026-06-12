@@ -1,0 +1,20 @@
+[project]
+name = "chatbot-streamlit"
+version = "1.0.0"
+description = "Chatbot educativo con lookup semantico — Streamlit + Neon"
+readme = "README.md"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+    "streamlit>=1.32.0",
+    "sqlalchemy>=2.0.31",
+    "psycopg2-binary>=2.9.9",
+    "pydantic-settings>=2.3.4",
+    "sentence-transformers>=3.0.1",
+    "numpy>=1.26.4",
+    "scikit-learn>=1.5.1",
+    "python-dotenv>=1.0.0",
+    "torchvision>=0.19.0",
+]
+
+[dependency-groups]
+dev = []

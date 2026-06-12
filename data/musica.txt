@@ -1,0 +1,8 @@
+p:que es un tempo en musica?r:El tempo es la velocidad o ritmo con el que se interpreta una pieza musical, generalmente medido en pulsaciones por minuto.
+p:que es una escala musical?r:Una escala musical es una sucesion ordenada de notas que sirve como base para la composicion y la armonia en la musica.
+p:que es un compas?r:Un compas es una unidad de tiempo en la musica que contiene un numero fijo de pulsos y se representa con barras verticales en la partitura.
+p:que es la armonia?r:La armonia es el conjunto de sonidos simultaneos que crean una sensacion de estabilidad o tension en la musica.
+p:que es un instrumento de cuerda?r:Un instrumento de cuerda es aquel que produce sonido mediante la vibracion de cuerdas tensadas, como la guitarra, el violin o el piano.
+p:que es el ritmo?r:El ritmo es la organizacion de los sonidos y silencios en el tiempo, creando patrones musicales repetitivos o variados.
+p:que es una nota musical?r:Una nota musical es un simbolo que representa la duracion y el tono de un sonido en una partitura.
+p:que es un acorde?r:Un acorde es un conjunto de tres o mas notas musicales que suenan simultaneamente y crean una sensacion armonica.

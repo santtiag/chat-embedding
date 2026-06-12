@@ -1,0 +1,8 @@
+p:que es una fraccion?r:Una fraccion es una expresion matematica que representa una parte de un entero, compuesta por numerador y denominador.
+p:como se calcula un porcentaje?r:Para calcular un porcentaje se multiplica el valor total por el porcentaje deseado y se divide entre cien.
+p:que es el minimo comun multiplo?r:El minimo comun multiplo es el menor numero positivo que es multiplo de dos o mas numeros enteros.
+p:que es el maximo comun divisor?r:El maximo comun divisor es el numero mas grande que divide exactamente a dos o mas numeros sin dejar residuo.
+p:como se suma fracciones con distinto denominador?r:Se busca el minimo comun multiplo de los denominadores, se convierten las fracciones a ese denominador comun y luego se suman los numeradores.
+p:que es una potencia?r:Una potencia es una operacion matematica que representa la multiplicacion repetida de un numero por si mismo.
+p:como se resuelve una regla de tres simple?r:Se multiplica el valor conocido cruzado por el incognito y se divide por el otro valor conocido para encontrar la variable desconocida.
+p:que es un numero primo?r:Un numero primo es un numero natural mayor que 1 que solo tiene dos divisores distintos: el 1 y el mismo.

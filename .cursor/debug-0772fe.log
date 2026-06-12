@@ -1,0 +1,3 @@
+{"sessionId": "0772fe", "timestamp": 1781238817752, "location": "verify.py", "message": "config", "data": {"ok": true, "error": null}, "hypothesisId": "H-ENV", "runId": "user-repro-6"}
+{"sessionId": "0772fe", "timestamp": 1781238833475, "location": "verify.py", "message": "startup", "data": {"pairs": 42}, "hypothesisId": "H-START", "runId": "user-repro-6"}
+{"sessionId": "0772fe", "timestamp": 1781238834714, "location": "verify.py", "message": "chat", "data": {"math": "matematica", "embed": "embedding", "embed_sim": 1.0, "none": "embedding"}, "hypothesisId": "H-CHAT", "runId": "user-repro-6"}

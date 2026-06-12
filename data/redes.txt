@@ -1,0 +1,8 @@
+p:que es una red de computadoras?r:Una red de computadoras es un conjunto de dispositivos interconectados que comparten recursos e informacion mediante protocolos de comunicacion.
+p:que es una direccion ip?r:Una direccion IP es un identificador numerico unico asignado a cada dispositivo conectado a una red que utiliza el protocolo IP para comunicarse.
+p:que es un firewall?r:Un firewall es un sistema de seguridad que controla el trafico de red entrante y saliente basandose en reglas de seguridad predefinidas.
+p:que es dns?r:DNS (Domain Name System) es un sistema que traduce nombres de dominio legibles por humanos a direcciones IP numericas.
+p:que es un router?r:Un router es un dispositivo de red que dirige el trafico de datos entre diferentes redes, determinando la mejor ruta para los paquetes.
+p:que es una mascara de subred?r:Una mascara de subred es una combinacion de bits que divide una direccion IP en la parte de red y la parte de host.
+p:que diferencia hay entre tcp y udp?r:TCP es un protocolo orientado a la conexion, confiable y con control de flujo. UDP es un protocolo sin conexion, mas rapido pero sin garantia de entrega.
+p:que es un switch de red?r:Un switch es un dispositivo que conecta multiples dispositivos dentro de una red local (LAN) usando direcciones MAC para enviar datos al destino correcto.
